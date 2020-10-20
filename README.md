@@ -1,1 +1,1 @@
-https://layrovell.github.io/surf/
+https://layrovell.github.io/surf/app/
